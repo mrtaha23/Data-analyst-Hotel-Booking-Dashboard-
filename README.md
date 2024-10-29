@@ -1,2 +1,3 @@
-# Data-analyst-Hotel-Booking-Dashboard-
-I developed a comprehensive project in Excel, constructing multiple dashboards and tables to perform in-depth data analysis. This project included key stages such as data preprocessing, data cleaning, and data visualization, enabling clear insights and effective data-driven decision-making
+#Hotel-Booking-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+Hotel-Booking dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.
